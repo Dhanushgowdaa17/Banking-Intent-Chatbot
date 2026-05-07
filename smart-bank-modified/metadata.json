@@ -1,0 +1,6 @@
+{
+  "name": "Smart Bank",
+  "description": "An AI-powered banking chatbot with fraud detection, financial health scoring, and transaction management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
