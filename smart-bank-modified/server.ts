@@ -14,6 +14,15 @@ import { getLoanEligibility } from "./server/loanEngine";
 
 dotenv.config();
 
+if (process.env.NODE_ENV === 'production') {
+  app.use(express.static(path.join(__dirname, 'dist')));
+  app.get('*', (req, res) => {
+    if (!req.path.startsWith('/api')) {
+      res.sendFile(path.join(__dirname, 'dist', 'index.html'));
+    }
+  });
+}
+
 const app = express();
 const PORT = 3000;
 
