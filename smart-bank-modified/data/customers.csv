@@ -2,7 +2,7 @@ customer_id,name,age,mobile,account_type,balance,interest_rate,credit_score,city
 C001,Amit Patel,30,9909839068,Savings,275673.00,4.0,672,Delhi,0
 C002,Neha Gupta,52,9845996262,Savings,61000.00,4.0,773,Bangalore,64.22
 C003,Priya Singh,23,9816222988,Current,485088.00,4.0,761,Hyderabad,0
-C004,Sanjay Kumar,37,9145937164,Savings,486965.00,4.0,785,Ahmedabad,0
+C004,Sanjay Kumar,37,9145937164,Savings,486900.00,4.0,785,Ahmedabad,1.30
 C005,Anjali Verma,30,9965472997,Savings,339476.00,4.0,759,Chennai,0
 C006,Vikram Reddy,54,9998617181,Savings,381065.00,4.0,675,Kolkata,0
 C007,Deepak Rao,30,9555882555,Savings,445407.00,4.0,798,Pune,0
@@ -99,7 +99,7 @@ C097,Aditya Bose,51,9306439056,Savings,78782.00,4.0,604,Pune,0
 C098,Kavita Menon,29,9745817991,Savings,487493.00,4.0,725,Jaipur,0
 C099,Vijay Chauhan,35,9624451734,Current,74857.00,4.0,701,Lucknow,0
 C100,Rahul Sharma,49,9325376603,Savings,239561.00,4.0,845,Mumbai,0
-C101,Dhanush,22,9353385423,Savings,201490.34,4.4,874,Bangalore,100.92
+C101,Dhanush,22,9353385423,Savings,201555.34,4.4,874,Bangalore,100.92
 C102,Nishmitha,28,9880000102,Savings,50000.00,4.0,760,Bangalore,0
 C103,Basavaraj,32,9880000103,Savings,65000.00,4.0,780,Bangalore,0
 C104,Pavithra,25,9880000104,Savings,45000.00,4.0,750,Bangalore,0
