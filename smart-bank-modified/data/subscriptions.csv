@@ -1,63 +1,57 @@
 customer_id,service_name,monthly_cost,last_used_date
 C001,Spotify,119,2026-04-15
 C002,Disney+ Hotstar,299,2026-04-15
-C003,Amazon Prime,179,2026-04-15
-C005,YouTube Premium,129,2026-04-15
-C006,Spotify,119,2026-04-15
-C008,Amazon Prime,179,2026-04-15
-C010,Amazon Prime,179,2026-04-15
-C011,Spotify,119,2026-04-15
+C003,Spotify,119,2026-04-15
+C005,Amazon Prime,179,2026-04-15
+C007,Disney+ Hotstar,299,2026-04-15
+C008,Disney+ Hotstar,299,2026-04-15
+C010,YouTube Premium,129,2026-04-15
+C011,Amazon Prime,179,2026-04-15
 C012,YouTube Premium,129,2026-04-15
-C015,YouTube Premium,129,2026-04-15
-C016,YouTube Premium,129,2026-04-15
-C017,Netflix,499,2026-04-15
-C018,YouTube Premium,129,2026-04-15
-C020,Netflix,499,2026-04-15
-C022,Spotify,119,2026-04-15
-C023,Spotify,119,2026-04-15
-C025,Amazon Prime,179,2026-04-15
-C029,Spotify,119,2026-04-15
-C032,Netflix,499,2026-04-15
-C035,Netflix,499,2026-04-15
-C039,Netflix,499,2026-04-15
-C042,YouTube Premium,129,2026-04-15
+C014,Disney+ Hotstar,299,2026-04-15
+C018,Spotify,119,2026-04-15
+C019,Amazon Prime,179,2026-04-15
+C020,Spotify,119,2026-04-15
+C021,Netflix,499,2026-04-15
+C022,Disney+ Hotstar,299,2026-04-15
+C025,Netflix,499,2026-04-15
+C026,YouTube Premium,129,2026-04-15
+C027,YouTube Premium,129,2026-04-15
+C028,Disney+ Hotstar,299,2026-04-15
+C029,Netflix,499,2026-04-15
+C031,Spotify,119,2026-04-15
+C033,Spotify,119,2026-04-15
+C034,Disney+ Hotstar,299,2026-04-15
+C035,Disney+ Hotstar,299,2026-04-15
+C036,Spotify,119,2026-04-15
+C037,YouTube Premium,129,2026-04-15
+C038,Netflix,499,2026-04-15
+C040,Netflix,499,2026-04-15
+C041,YouTube Premium,129,2026-04-15
+C043,Netflix,499,2026-04-15
 C044,Amazon Prime,179,2026-04-15
-C045,Netflix,499,2026-04-15
-C046,Spotify,119,2026-04-15
-C048,Disney+ Hotstar,299,2026-04-15
-C050,Netflix,499,2026-04-15
-C051,Netflix,499,2026-04-15
-C052,Disney+ Hotstar,299,2026-04-15
-C054,Disney+ Hotstar,299,2026-04-15
-C055,Disney+ Hotstar,299,2026-04-15
-C060,Amazon Prime,179,2026-04-15
-C062,Spotify,119,2026-04-15
-C065,Netflix,499,2026-04-15
-C066,Spotify,119,2026-04-15
-C068,Netflix,499,2026-04-15
-C070,YouTube Premium,129,2026-04-15
-C071,Disney+ Hotstar,299,2026-04-15
-C072,Disney+ Hotstar,299,2026-04-15
-C073,Netflix,499,2026-04-15
-C074,Amazon Prime,179,2026-04-15
-C075,Disney+ Hotstar,299,2026-04-15
-C077,Spotify,119,2026-04-15
-C080,Disney+ Hotstar,299,2026-04-15
-C081,Netflix,499,2026-04-15
-C086,Netflix,499,2026-04-15
+C045,Disney+ Hotstar,299,2026-04-15
+C046,YouTube Premium,129,2026-04-15
+C048,Spotify,119,2026-04-15
+C053,YouTube Premium,129,2026-04-15
+C054,Spotify,119,2026-04-15
+C055,Netflix,499,2026-04-15
+C058,Disney+ Hotstar,299,2026-04-15
+C059,Amazon Prime,179,2026-04-15
+C061,YouTube Premium,129,2026-04-15
+C064,Netflix,499,2026-04-15
+C067,Spotify,119,2026-04-15
+C068,Amazon Prime,179,2026-04-15
+C069,Netflix,499,2026-04-15
+C072,YouTube Premium,129,2026-04-15
+C075,YouTube Premium,129,2026-04-15
+C077,YouTube Premium,129,2026-04-15
+C079,Disney+ Hotstar,299,2026-04-15
+C086,Amazon Prime,179,2026-04-15
+C087,Netflix,499,2026-04-15
 C088,Spotify,119,2026-04-15
-C089,Amazon Prime,179,2026-04-15
-C090,Disney+ Hotstar,299,2026-04-15
-C094,Netflix,499,2026-04-15
-C095,Netflix,499,2026-04-15
-C096,Spotify,119,2026-04-15
+C090,YouTube Premium,129,2026-04-15
+C093,Disney+ Hotstar,299,2026-04-15
+C095,YouTube Premium,129,2026-04-15
 C097,Disney+ Hotstar,299,2026-04-15
-C098,Netflix,499,2026-04-15
-C100,YouTube Premium,129,2026-04-15
-C101,Spotify,119,2026-04-15
-C102,Netflix,499,2026-04-15
-C102,Spotify,119,2026-04-15
-C103,Amazon Prime,179,2026-04-15
-C104,Disney+ Hotstar,299,2026-04-15
-C105,Netflix,649,2026-04-15
-C105,Amazon Prime,179,2026-04-15
+C099,Disney+ Hotstar,299,2026-04-15
